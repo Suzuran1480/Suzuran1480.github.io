@@ -34,4 +34,4 @@ Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字
 
 ### 支持或联系
 
-Pages有问题吗？查看我们的 [文档](https://docs.github.com/categories/github-pages-basics/) or [与支持人员联系](https://support.github.com/contact) ，我们将帮助您解决问题。
+Pages有问题吗？查看我们的 [文档](https://docs.github.com/categories/github-pages-basics/) 或 [与支持人员联系](https://support.github.com/contact) ，我们将帮助您解决问题。
